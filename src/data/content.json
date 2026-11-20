@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "name": "Muhammad Fahim Shah",
+    "tagline": "BSCS Student & Aspiring Developer",
+    "bio": "I am a 3rd-semester Computer Science student from Peshawar. Passionate about web development, problem-solving, and building useful digital experiences.",
+    "linkedin": "https://www.linkedin.com/in/muhammad-fahim-shah-28560a387",
+    "github": "https://github.com/muhammdafahimshah72-code",
+    "email": "fahimshah@example.com" 
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Finals Tracker",
+      "description": "A web application designed to help students track their final exam preparation schedules.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "category": "Web Dev",
+      "github": "https://github.com/muhammdafahimshah72-code/finals-tracker",
+      "live": "",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 2,
+      "title": "Personal Portfolio",
+      "description": "The very site you are looking at. Built with React, Tailwind CSS, and a focus on performance.",
+      "tech": ["React", "Tailwind CSS", "Vite"],
+      "category": "Web Dev",
+      "github": "https://github.com/muhammdafahimshah72-code",
+      "live": "",
+      "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?auto=format&fit=crop&q=80&w=800"
+    }
+  ]
+}
